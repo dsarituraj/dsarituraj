@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
- <img align="right" alt="Coding" width="380" src="./FOUNDATION.png">
- <img align="right" alt="Coding" width="380" src="./action.png">
+ <img align="right" alt="Coding" width="80" src="./FOUNDATION.png">
+ <img align="right" alt="Coding" width="80" src="./action.png">
  
 - 🔭 I’m currently working on **MERN Stack Blogging Website**
 
