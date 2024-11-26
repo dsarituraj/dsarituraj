@@ -2,16 +2,15 @@
 <h1 align="center">Hi 👋, I'm Ritu Raj Singh</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="380" src="./iamworking.gif">
-
- <img align="right" alt="Coding" width="380" src="./FOUNDATION.png">
- <img align="right" alt="Coding" width="380" src="./action.png">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dsarituraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dsarituraj" />
   <a href="https://www.linkedin.com/in/dsarituraj" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
+ <img align="right" alt="Coding" width="380" src="./FOUNDATION.png">
+ <img align="right" alt="Coding" width="380" src="./action.png">
+ 
 - 🔭 I’m currently working on **MERN Stack Blogging Website**
 
 - 🌱 I’m currently learning **React and Three.js**
