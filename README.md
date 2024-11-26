@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React and Three.js**
 
-- 👨‍💻 All of my projects are available at [Ritu Raj Official/](https://www.riturajofficial.me/)
+- 👨‍💻 All of my projects are available at [Ritu Raj Official](https://www.riturajofficial.me/)
 
 - 📝 I write articles on [https://www.gadget360.tech](https://www.gadget360.tech)
 
