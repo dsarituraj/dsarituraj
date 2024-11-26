@@ -19,7 +19,7 @@
 
 - 📝 I write articles on [Gadget360.tech](https://www.gadget360.tech)
 
-- 💬 Ask me about **System Design , DSA Probleams**
+- 💬 Ask me about **System Design , DSA Probleams , Web Developer**
 
 - 📫 How to reach me **uis.rituraj@gmail.com**
 
