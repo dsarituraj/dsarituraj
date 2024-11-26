@@ -9,8 +9,9 @@
   </a>
 </p>
  <p>
- <img alt="Coding" width="90" src="./Foundations.png">
- <img alt="Coding" width="90" src="./action.png">
+ <img alt="Github Foundations Certified" width="100" src="./Foundations.png">
+ <img alt="Github Actions Certified" width="100" src="./action.png">
+ <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode.gif">
  </p>
  
 - 🔭 I’m currently working on **MERN Stack Blogging Website**
