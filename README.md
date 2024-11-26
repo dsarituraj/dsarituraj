@@ -1,7 +1,8 @@
-[!MasterHead](https://github.com/dsarituraj/dsarituraj/blob/main/Technology.png)
+[!MasterHead](https://github.com/dsarituraj/dsarituraj/blob/main/iamworking.gif)
 <h1 align="center">Hi 👋, I'm Ritu Raj Singh</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align=“right” alt=“Coding” wirdth=“400” src=“https://github.com/dsarituraj/dsarituraj/blob/main/iamworking.gif”
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsarituraj&label=Profile%20views&color=0e75b6&style=flat" alt="dsarituraj" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 🌱 I’m currently learning **React and Three.js**
 
-- 👨‍💻 All of my projects are available at [https://error-404-reimagine-round2.vercel.app/](https://error-404-reimagine-round2.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.riturajofficial.me/](https://www.riturajofficial.me/)
 
 - 📝 I write articles on [https://www.gadget360.tech](https://www.gadget360.tech)
 
