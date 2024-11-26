@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Ritu Raj Official](https://www.riturajofficial.me/)
 
-- 📝 I write articles on [https://www.gadget360.tech](https://www.gadget360.tech)
+- 📝 I write articles on [Gadget360.tech](https://www.gadget360.tech)
 
 - 💬 Ask me about **System Design , DSA Probleams**
 
