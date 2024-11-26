@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/dsarituraj" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <img align="right" alt="Coding" width="380" src="./FOUNDATION.png">
+  <img align="right" alt="Coding" width="380" src="./action.png">
+
 </p>
 
 - 🔭 I’m currently working on **MERN Stack Blogging Website**
