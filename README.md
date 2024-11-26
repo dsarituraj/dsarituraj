@@ -9,8 +9,8 @@
   </a>
 </p>
  <p>
- <img align="right" alt="Coding" width="80" src="./FOUNDATION.png">
- <img align="right" alt="Coding" width="80" src="./action.png">
+ <img alt="Coding" width="90" src="./FOUNDATION.png">
+ <img alt="Coding" width="90" src="./action.png">
  </p>
  
 - 🔭 I’m currently working on **MERN Stack Blogging Website**
