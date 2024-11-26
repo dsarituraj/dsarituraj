@@ -1,4 +1,4 @@
-<img width="100%" src="./Technology.png" />
+<img width="100%" src="./App.gif)" />
 <h1 align="center">Hi 👋, I'm Ritu Raj Singh</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="380" src="./iamworking.gif">
