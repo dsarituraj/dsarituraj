@@ -9,7 +9,7 @@
   </a>
 </p>
  <p>
- <img alt="Coding" width="90" src="./FOUNDATION.png">
+ <img alt="Coding" width="90" src="./Foundations.png">
  <img alt="Coding" width="90" src="./action.png">
  </p>
  
