@@ -13,6 +13,7 @@
  <img alt="Github Actions Certified" width="100" src="./action.png">
  <img alt="Microsoft Certified Azure Fundamentals" width="95" src="./microsoft-certified-azure-fundamentals.png">
  <img alt="GFG Token of daily Question Solving at geeksforgeeks" width="95" src="./GFG.gif">
+ <img alt="AWS Emerging Talent Community Member" width="100" src="./AWS-Emerging-Talent-Community.png">
  <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode.gif">
  <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode_2025.gif">
  
