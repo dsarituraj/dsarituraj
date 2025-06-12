@@ -11,15 +11,12 @@
  <p>
  <img alt="Github Foundations Certified" width="100" src="./Foundations.png">
  <img alt="Github Actions Certified" width="100" src="./action.png">
- <img alt="Microsoft Certified Azure Fundamentals" width="95" src="./microsoft-certified-azure-fundamentals.png">
- <img alt="Microsoft Certified Azure Fundamentals" width="95" src="./azure-developer-associate.png">
- <img alt="AWS Emerging Talent Community Member" width="100" src="./AWS-Emerging-Talent-Community.png">
- <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode.gif">
  <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode_2025.gif">
  <img alt="GFG Token of daily Question Solving at geeksforgeeks" width="95" src="./GFG.gif">
- 
-
-
+ <img alt="AWS Emerging Talent Community Member" width="100" src="./AWS-Emerging-Talent-Community.png">
+ <img alt="Microsoft Certified Azure Fundamentals" width="95" src="./microsoft-certified-azure-fundamentals.png">
+ <img alt="Microsoft Certified: Azure AI Engineer Associate" width="95" src="./AI-Engineer.png">
+ <img alt="Microsoft Certified: Azure Developer Associate" width="95" src="./azure-developer-associate.png">
  </p>
  
 - 🔭 I’m currently working on **MERN Stack Blogging Website**
