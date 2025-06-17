@@ -1,5 +1,5 @@
 <img src="./App.gif" width="100%" height="435px" />
-<h1 align="center">Hi 👋, I'm Ritu Raj Singh</h1>
+<h1 align="center">Hi , I'm Ritu Raj Singh</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="435" height="370" src="./iamworking.gif">
 <p align="left"> 
