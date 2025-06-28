@@ -52,7 +52,7 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsarituraj&show_icons=true&locale=en&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsarituraj&show_icons=true&locale=en" />
-</p>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsarituraj&show_icons=true&locale=en" />
+</p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsarituraj&" alt="dsarituraj" /></p>
