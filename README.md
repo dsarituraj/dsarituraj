@@ -29,17 +29,24 @@
  
 - 🔭 I’m currently working on **MERN Stack Blogging Website**
 
-- 🌱 I’m currently learning **React and Three.js**
+- 🌱 I’m currently learning **Full Stack Java Development**, mastering in **AI/ML**.
 
 - 👨‍💻 All of my projects are available at [Ritu Raj Official](https://www.riturajofficial.me/)
 
 - 📝 I write articles on [Gadget360.tech](https://www.gadget360.tech)
 
-- 💬 Ask me about **System Design, DSA Probleams, MERN**
+- 💬 Ask me about **System Design, DSA Probleams, MERN Stack , AIML , Microsoft Certifications**
 
-- 📫 How to reach me **uis.rituraj@gmail.com**
+- 📫 How to reach me **us.developer@outlook.com**
 
 - ⚡ Fun fact **I think I am a constant learner, always exploring new things.**
+
+<h3 align="left">Microsoft Certified</h3>
+
+- AZ-900: **Microsoft Certified: Azure Fundamentals**  
+- AZ-204: **Microsoft Certified: Azure Developer Associate**  
+- &nbsp;AI-102: **Microsoft Certified: Azure AI Engineer Associate**  
+- DP-100: **Microsoft Certified: Azure Data Scientist Associate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
