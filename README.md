@@ -29,7 +29,7 @@
  
 - 🔭 I’m currently working on **MERN Stack Blogging Website**
 
-- 🌱 I’m currently learning **Full Stack Java Development**, mastering in **AI/ML**.
+- 🌱 I’m currently learning **Full Stack Java Development**, mastering **AI & Machine Learning**, and **Cloud Technologies**.
 
 - 👨‍💻 All of my projects are available at [Ritu Raj Official](https://www.riturajofficial.me/)
 
