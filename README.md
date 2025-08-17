@@ -18,8 +18,8 @@
  <img alt="Github Administration Certified" width="100" src="./github-administration.png">
  <img alt="4 ⭐ Knight @LeetCode" width="95" src="./Knight.gif">
  <img alt="AWS Emerging Talent Community Member" width="100" src="./AWS-Emerging-Talent-Community.png">
- <img alt="200 days at leetcode" width="95" src="./200-days-at-leetcode_2025.gif">
  <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode_2025.gif">
+ <img alt="200 days at leetcode" width="95" src="./200-days-at-leetcode_2025.gif">
  <img alt="365 days at leetcode" width="95" src="./365-days-at-leetcode_2025.gif">
  
  </p>
