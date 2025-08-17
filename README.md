@@ -43,10 +43,10 @@
 
 <h3 align="left">Microsoft Certified</h3>
 
-- AZ-900: **Microsoft Certified: Azure Fundamentals**  
 - AZ-204: **Microsoft Certified: Azure Developer Associate**  
-- &nbsp;AI-102: **Microsoft Certified: Azure AI Engineer Associate**  
 - DP-100: **Microsoft Certified: Azure Data Scientist Associate**
+- &nbsp;AI-102: **Microsoft Certified: Azure AI Engineer Associate**  
+- AZ-900: **Microsoft Certified: Azure Fundamentals** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
