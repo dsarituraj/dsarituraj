@@ -46,6 +46,7 @@
 
 - AZ-204: **Microsoft Certified: Azure Developer Associate**  
 - DP-100: **Microsoft Certified: Azure Data Scientist Associate**
+- SC-300: **Microsoft Certified: Identity and Access Administrator Associate**  
 - &nbsp;AI-102: **Microsoft Certified: Azure AI Engineer Associate**  
 - AZ-900: **Microsoft Certified: Azure Fundamentals** 
 
