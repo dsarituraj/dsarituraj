@@ -1,6 +1,7 @@
 <img src="./App.gif" width="100%" height="435px" />
 <h1 align="center">Hi , I'm Ritu Raj Singh</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
+<!-- <img align="right" alt="Coding" width="300" height="500" src="./iamworking.gif"> -->
 <img align="right" alt="Coding" width="415" height="500" src="./iamworking.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dsarituraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dsarituraj" />
@@ -22,6 +23,8 @@
  <img alt="Github Foundations Certified" width="100" src="./Foundations.png">
  <img alt="Github Actions Certified" width="100" src="./action.png">
  <img alt="Github Administration Certified" width="100" src="./github-administration.png">
+ <img alt="Microsoft Certified Azure Fundamentals" width="95" src="./microsoft-certified-azure-fundamentals.png">
+
  
  
  
