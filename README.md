@@ -1,7 +1,7 @@
 <img src="./App.gif" width="100%" height="435px" />
 <h1 align="center">Hi , I'm Ritu Raj Singh</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
-<img align="right" alt="Coding" width="350" height="500" src="./iamworking.gif">
+<img align="right" alt="Coding" width="320" height="500" src="./iamworking.gif">
 <!-- <img align="right" alt="Coding" width="415" height="500" src="./iamworking.gif"> -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dsarituraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dsarituraj" />
