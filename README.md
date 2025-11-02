@@ -24,6 +24,7 @@
  <img alt="Github Foundations Certified" width="100" src="./Foundations.png">
  <img alt="Github Actions Certified" width="100" src="./action.png">
  <img alt="Github Administration Certified" width="100" src="./github-administration.png">
+ <img alt="Salesforce Certified Agentforce Specialist" width="100" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
  
  
  
