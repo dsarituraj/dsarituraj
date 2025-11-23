@@ -15,10 +15,11 @@
  <img alt="Microsoft Certified: Identity and Access Administrator Associate" width="95" src="./identity-and-access-administrator.png">
  <img alt="Microsoft Certified: Azure Data Scientist Associate" width="95" src="./azure-data-scientist.png">
  <img alt="Microsoft Certified: Azure Developer Associate" width="95" src="./azure-developer-associate.png">
- <img alt="50 days at leetcode" width="95" src="./50-days-at-leetcode_2025.gif">
+ <!-- <img alt="50 days at leetcode" width="95" src="./50-days-at-leetcode_2025.gif"> -->
  <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode_2025.gif">
  <img alt="200 days at leetcode" width="95" src="./200-days-at-leetcode_2025.gif">
  <img alt="365 days at leetcode" width="95" src="./365-days-at-leetcode_2025.gif">
+ <img alt="300+ days at leetcode 2025" width="95" src="./300+days-In-2025-at-leetcode.gif">
  <img alt="4 ⭐ Knight @LeetCode" width="95" src="./Knight.gif">
  <img alt="AWS Emerging Talent Community Member" width="95" src="./AWS-Emerging-Talent-Community.png">
  <img alt="Salesforce Certified Agentforce Specialist" width="95" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
