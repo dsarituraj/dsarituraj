@@ -21,12 +21,12 @@
  <img alt="365 days at leetcode" width="95" src="./365-days-at-leetcode_2025.gif">
  <img alt="300+ days at leetcode 2025" width="95" src="./300+days-In-2025-at-leetcode.gif">
  <img alt="4 ⭐ Knight @LeetCode" width="95" src="./Knight.gif">
- <img alt="AWS Emerging Talent Community Member" width="95" src="./AWS-Emerging-Talent-Community.png">
  <img alt="Salesforce Certified Agentforce Specialist" width="95" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
  <img alt="Github Foundations Certified" width="95" src="./Foundations.png">
  <img alt="Github Actions Certified" width="95" src="./action.png">
  <img alt="Github Administration Certified" width="95" src="./github-administration.png">
- 
+ <img alt="SAP Certified Associate - Integration Developer" width="95" src="./sap-certified-associate-integration-developer.png">
+ <img alt="AWS Emerging Talent Community Member" width="95" src="./AWS-Emerging-Talent-Community.png">
  
  
  
