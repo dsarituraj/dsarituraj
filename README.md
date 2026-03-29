@@ -45,7 +45,7 @@
 
 - 💬 Ask me about **System Design, DSA Probleams, MERN Stack , AIML , Microsoft Certifications**
 
-- 📫 How to reach me **usdevops@zohomail.in**
+- 📫 How to reach me **🟢 rituraj.sde@gmail.com**
 
 - ⚡ Fun fact **I think I am a constant learner, always exploring new things.**
 
