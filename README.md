@@ -47,7 +47,7 @@
 
 - 📫 How to reach me **🟢 rituraj.sde@gmail.com**
 
-- ⚡ Fun fact **I think I am a constant learner, always exploring new things.**
+- ⚡ Fun fact **I think I am a constant learner, always exploring new things.*
 
 <h3 align="left">Microsoft Certified</h3>
 
@@ -56,6 +56,12 @@
 - SC-300: **Microsoft Certified: Identity and Access Administrator Associate**  
 - &nbsp;AI-102: **Microsoft Certified: Azure AI Engineer Associate**  
 - AZ-900: **Microsoft Certified: Azure Fundamentals** 
+
+<h3 align="left">GitHub Certified</h3>
+
+- GH-100: **GitHub Certified Administration**  
+- GH-200: **GitHub Certified Actions**
+- GH-900: **GitHub Certified Foundations**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
