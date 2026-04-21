@@ -37,7 +37,7 @@
  
  </p>
  
-- 🔭 I’m currently working on an  **end-to-end RAG pipeline that transforms video lectures into an intelligent AI assistant**
+- 🔭 I’m currently working on an  **end-to-end RAG pipeline that transforms video lectures into an intelligent AI assistant.**
 - 🌱 I’m currently learning **Full Stack Java Development** while strengthening my skills in **AI/ML** and **cloud technologies.**
 - 👨‍💻 All of my projects are available at [RituRajSingh.Tech](https://www.riturajsingh.tech/)
 
