@@ -13,8 +13,8 @@
  <img alt="Microsoft Certified Azure Fundamentals" width="95" src="./microsoft-certified-azure-fundamentals.png">
  <img alt="Microsoft Certified: Azure AI Engineer Associate" width="95" src="./AI-Engineer.png"> 
  <img alt="Microsoft Certified: Identity and Access Administrator Associate" width="95" src="./identity-and-access-administrator.png">
- <img alt="Microsoft Certified: Azure Data Scientist Associate" width="95" src="./azure-data-scientist.png">
  <img alt="Microsoft Certified: Azure Developer Associate" width="95" src="./azure-developer-associate.png">
+ <img alt="Microsoft Certified: Azure Data Scientist Associate" width="95" src="./azure-data-scientist.png">
  <img alt="SAP Certified Associate - Integration Developer" width="95" src="./sap-certified-associate-integration-developer.png">
  <img alt="Github Foundations Certified" width="95" src="./Foundations.png">
  <img alt="Github Actions Certified" width="95" src="./action.png">
