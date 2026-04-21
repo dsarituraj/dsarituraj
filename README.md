@@ -60,6 +60,7 @@
 - AZ-900: **Microsoft Certified: Azure Fundamentals** 
 
 <h3 align="left">GitHub Certified</h3>
+
 - GH-500: **GitHub Advanced Security**
 - GH-200: **GitHub Certified Actions**
 - GH-100: **GitHub Certified Administration**  
