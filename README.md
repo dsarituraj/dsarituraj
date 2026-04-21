@@ -1,6 +1,6 @@
 <img src="./App.gif" width="100%" height="435px" />
 <h1 align="center">Hi , I'm Ritu Raj Singh</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer based in India with expertise in backend systems, cloud technologies and Artificial Intelligence & Machine Learning.</h3>
 <img align="right" alt="Coding" width="335" height="500" src="./iamworking.gif">
 <!-- <img align="right" alt="Coding" width="415" height="500" src="./iamworking.gif"> -->
 <p align="left"> 
@@ -38,9 +38,7 @@
  </p>
  
 - 🔭 I’m currently working on an  **end-to-end RAG pipeline that transforms video lectures into an intelligent AI assistant**
-
-- 🌱 I’m currently learning **Full Stack Java Development**, mastering **AI & Machine Learning**, and **Cloud Technologies**.
-
+- 🌱 I’m currently learning **Full Stack Java Development** while strengthening my skills in **AI/ML** and **cloud technologies.**
 - 👨‍💻 All of my projects are available at [RituRajSingh.Tech](https://www.riturajsingh.tech/)
 
 - 📝 I write articles on [Gadget360.tech](https://www.gadget360.tech)
