@@ -16,17 +16,19 @@
  <img alt="Microsoft Certified: Azure Data Scientist Associate" width="95" src="./azure-data-scientist.png">
  <img alt="Microsoft Certified: Azure Developer Associate" width="95" src="./azure-developer-associate.png">
  <!-- <img alt="50 days at leetcode" width="95" src="./50-days-at-leetcode_2025.gif"> -->
- <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode_2025.gif">
  <img alt="200 days at leetcode" width="95" src="./200-days-at-leetcode_2025.gif">
  <img alt="365 days at leetcode" width="95" src="./365-days-at-leetcode_2025.gif">
  <img alt="300+ days at leetcode 2025" width="95" src="./300+days-In-2025-at-leetcode.gif">
+ <img alt="500+ days at leetcode" width="95" src="./500-days-at-leetcode.gif">
  <img alt="4 ⭐ Knight @LeetCode" width="95" src="./Knight.gif">
- <img alt="Salesforce Certified Agentforce Specialist" width="95" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
+ <img alt="SAP Certified Associate - Integration Developer" width="95" src="./sap-certified-associate-integration-developer.png">
  <img alt="Github Foundations Certified" width="95" src="./Foundations.png">
  <img alt="Github Actions Certified" width="95" src="./action.png">
  <img alt="Github Administration Certified" width="95" src="./github-administration.png">
- <img alt="SAP Certified Associate - Integration Developer" width="95" src="./sap-certified-associate-integration-developer.png">
+ <img alt="GitHub Advanced Security Certified" width="95" src="./GitHub Advanced Security Certified.png">
  <img alt="AWS Emerging Talent Community Member" width="95" src="./AWS-Emerging-Talent-Community.png">
+ <img alt="Salesforce Certified Agentforce Specialist" width="95" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
+ <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode_2025.gif">
  
  
  
@@ -58,9 +60,9 @@
 - AZ-900: **Microsoft Certified: Azure Fundamentals** 
 
 <h3 align="left">GitHub Certified</h3>
-
-- GH-100: **GitHub Certified Administration**  
+- GH-500: **GitHub Advanced Security**
 - GH-200: **GitHub Certified Actions**
+- GH-100: **GitHub Certified Administration**  
 - GH-900: **GitHub Certified Foundations**  
 
 <h3 align="left">Connect with me:</h3>
