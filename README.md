@@ -37,7 +37,7 @@
  
  </p>
  
-- 🔭 I’m currently working on **MERN Stack Blogging Website**
+- 🔭 I’m currently working on an  **end-to-end RAG pipeline that transforms video lectures into an intelligent AI assistant**
 
 - 🌱 I’m currently learning **Full Stack Java Development**, mastering **AI & Machine Learning**, and **Cloud Technologies**.
 
