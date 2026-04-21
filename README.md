@@ -16,9 +16,9 @@
  <img alt="Microsoft Certified: Azure Data Scientist Associate" width="95" src="./azure-data-scientist.png">
  <img alt="Microsoft Certified: Azure Developer Associate" width="95" src="./azure-developer-associate.png">
  <!-- <img alt="50 days at leetcode" width="95" src="./50-days-at-leetcode_2025.gif"> -->
+ <img alt="300+ days at leetcode 2025" width="95" src="./300+days-In-2025-at-leetcode.gif">
  <img alt="200 days at leetcode" width="95" src="./200-days-at-leetcode_2025.gif">
  <img alt="365 days at leetcode" width="95" src="./365-days-at-leetcode_2025.gif">
- <img alt="300+ days at leetcode 2025" width="95" src="./300+days-In-2025-at-leetcode.gif">
  <img alt="500+ days at leetcode" width="95" src="./500-days-at-leetcode.gif">
  <img alt="4 ⭐ Knight @LeetCode" width="95" src="./Knight.gif">
  <img alt="SAP Certified Associate - Integration Developer" width="95" src="./sap-certified-associate-integration-developer.png">
