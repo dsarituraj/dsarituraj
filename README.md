@@ -41,7 +41,7 @@
 
 - 🌱 I’m currently learning **Full Stack Java Development**, mastering **AI & Machine Learning**, and **Cloud Technologies**.
 
-- 👨‍💻 All of my projects are available at [Ritu Raj Official](https://www.riturajofficial.me/)
+- 👨‍💻 All of my projects are available at [RituRajSingh.Tech](https://www.riturajsingh.tech/)
 
 - 📝 I write articles on [Gadget360.tech](https://www.gadget360.tech)
 
