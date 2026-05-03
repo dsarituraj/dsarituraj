@@ -44,7 +44,7 @@
 
 - 📫 How to reach me **🟢 rituraj.sde@gmail.com**
 
-- ⚡ Fun fact **I think I am a constant learner, always exploring new things.*
+- ⚡ Fun fact **I think I am a constant learner, always exploring new things.**
 
 <h3 align="left">Microsoft Certified</h3>
 
