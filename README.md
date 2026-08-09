@@ -69,14 +69,15 @@
 <b> Cybersecurity</b>
 
 - SC-100: **Microsoft Certified: Cybersecurity Architect Expert**
-- SC-300: **Microsoft Certified: Identity and Access Administrator Associate**
 - SC-500: **Microsoft Certified: Cloud and AI Security Engineer Associate**
+- SC-300: **Microsoft Certified: Identity and Access Administrator Associate**
+
 
 <b> Data Engineering & Analytics</b>
 
+- DP-800: **Microsoft Certified: SQL AI Developer Associate**
 - DP-700: **Microsoft Certified: Fabric Data Engineer Associate**
 - DP-600: **Microsoft Certified: Fabric Analytics Engineer Associate**
-- DP-800: **Microsoft Certified: SQL AI Developer Associate**
 
 <b> Software Development & Cloud</b>
 
