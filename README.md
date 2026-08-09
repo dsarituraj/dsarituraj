@@ -59,26 +59,26 @@
 
 <h4 align="left">I hold globally recognized credentials across AI, Cloud, Cybersecurity, Data Engineering and Enterprise Technology.</h4>
 
-<b>🤖 AI & Machine Learning</b>
+<b> AI & Machine Learning</b>
 
 - AB-100: **Microsoft Certified: Agentic AI Business Solutions Architect**
 - AI-102: **Microsoft Certified: Azure AI Engineer Associate**
 - DP-100: **Microsoft Certified: Azure Data Scientist Associate**
 - AI-201: **Salesforce Certified Agentforce Specialist**
 
-<b>🔐 Cybersecurity</b>
+<b> Cybersecurity</b>
 
 - SC-100: **Microsoft Certified: Cybersecurity Architect Expert**
 - SC-300: **Microsoft Certified: Identity and Access Administrator Associate**
 - SC-500: **Microsoft Certified: Cloud and AI Security Engineer Associate**
 
-<b>📊 Data Engineering & Analytics</b>
+<b> Data Engineering & Analytics</b>
 
 - DP-700: **Microsoft Certified: Fabric Data Engineer Associate**
 - DP-600: **Microsoft Certified: Fabric Analytics Engineer Associate**
 - DP-800: **Microsoft Certified: SQL AI Developer Associate**
 
-<b>💻 Software Development & Cloud</b>
+<b> Software Development & Cloud</b>
 
 - AZ-204: **Microsoft Certified: Azure Developer Associate**
 - AZ-900: **Microsoft Certified: Azure Fundamentals**
