@@ -49,9 +49,7 @@
 - 🌱 I’m currently learning **Full Stack Java Development** while strengthening my skills in **AI/ML** and **cloud technologies.**
 - 👨‍💻 All of my projects are available at [RituRajSingh.Tech](https://www.riturajsingh.tech/)
 
-- 📝 I write articles on [Gadget360.tech](https://www.gadget360.tech)
-
-- 💬 Ask me about **System Design, DSA Probleams, MERN Stack , AIML , Microsoft Certifications**
+- 💬 Ask me about **System Design, Data Structures and Algorithms, MERN Stack & Agentic AI Development , AI & Machine Learning , Microsoft Certifications**
 
 - 📫 How to reach me **🟢 rituraj.sde@gmail.com**
 
