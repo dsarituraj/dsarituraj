@@ -1,7 +1,7 @@
 <img src="./App.gif" width="100%" height="435px" />
 <h1 align="center">Hi , I'm Ritu Raj Singh</h1>
 <h3 align="center">A passionate Full-Stack Developer based in India with expertise in backend systems, cloud technologies and Artificial Intelligence & Machine Learning.</h3>
-<img align="right" alt="Coding" width="330" src="./iamworking.gif" style="height: 480px; object-fit: cover;"><!-- <img align="right" alt="Coding" width="415" height="500" src="./iamworking.gif"> -->
+<img align="right" alt="Coding" width="330" src="./iamworking.gif" style="height: 450px; object-fit: cover;"><!-- <img align="right" alt="Coding" width="415" height="500" src="./iamworking.gif"> -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dsarituraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dsarituraj" />
   <a href="https://www.linkedin.com/in/dsarituraj" target="blank">
@@ -33,13 +33,12 @@
  <img alt="500+ days at leetcode" width="95" src="./500-days-at-leetcode.gif">
  <img alt="Guardian @LeetCode" width="95" src="./Guardian.gif">
  <br><br>
+ <img alt="AWS Emerging Talent Community Member" width="95" src="./AWS-Emerging-Talent-Community.png">
  <img alt="Salesforce Certified Agentforce Specialist" width="95" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
- <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode_2025.gif">
- <img alt="200 days at leetcode" width="95" src="./200-days-at-leetcode_2025.gif">
  <img alt="300+ days at leetcode 2025" width="95" src="./300+days-In-2025-at-leetcode.gif">
  <img alt="4 ⭐ Knight @LeetCode" width="95" src="./Knight.gif">
  <br><br>
- <img alt="AWS Emerging Talent Community Member" width="95" src="./AWS-Emerging-Talent-Community.png">
+ 
  
  
  </p>
