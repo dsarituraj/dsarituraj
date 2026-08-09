@@ -57,7 +57,7 @@
 
 - ⚡ Fun fact **I think I am a constant learner, always exploring new things.**
 
-<h3 align="left">I hold globally recognized credentials across AI, Cloud, Cybersecurity, Data Engineering and Enterprise Technology.</h3>
+<h4 align="left">I hold globally recognized credentials across AI, Cloud, Cybersecurity, Data Engineering and Enterprise Technology.</h4>
 
 <b>🤖 AI & Machine Learning</b>
 
