@@ -12,7 +12,7 @@
  <p>
  <img alt="Microsoft Certified: Azure AI Engineer Associate" width="95" src="./AI-Engineer.png"> 
  <img alt="Microsoft Certified: Identity and Access Administrator Associate" width="95" src="./identity-and-access-administrator.png">
- <img alt="Microsoft Certified: Cloud-And-AI-Security-Engineer Associate" width="95" src="./Cloud-And-AI-Security-Engineer.png">
+ <img alt="Microsoft Certified: Cloud-And-AI-Security-Engineer Associate" width="105" src="./Cloud-And-AI-Security-Engineer.jpeg">
  <img alt="Microsoft Certified: Cybersecurity-Architect-Expert" width="95" src="./Cybersecurity-Architect-Expert.png">
  <img alt="Microsoft Certified: Agentic-AI-Business-Solutions-Architect" width="95" src="./Agentic-AI-Business-Solutions-Architect .png">
 
@@ -20,7 +20,7 @@
  <img alt="Microsoft Certified Azure Fundamentals" width="95" src="./microsoft-certified-azure-fundamentals.png">
  <img alt="Microsoft Certified: Azure Developer Associate" width="95" src="./azure-developer-associate.png">
  <img alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="95" src="./Fabric-Data-Engineer.png">
- <img alt="Microsoft Certified: SQL-AI-Developer" width="95" src="./DP-800.png">
+ <img alt="Microsoft Certified: SQL-AI-Developer" width="105" src="./DP-800.png">
  <img alt="Microsoft Certified: Azure Data Scientist Associate" width="95" src="./azure-data-scientist.png">
  
  <img alt="SAP Certified Associate - Integration Developer" width="95" src="./sap-certified-associate-integration-developer.png">
@@ -29,13 +29,12 @@
  <img alt="Github Administration Certified" width="95" src="./github-administration.png">
  <img alt="GitHub Advanced Security Certified" width="95" src="./GitHub Advanced Security Certified.png">
  <!-- <img alt="50 days at leetcode" width="95" src="./50-days-at-leetcode_2025.gif"> -->
-
  <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode_2026.gif">
  <img alt="200 days at leetcode" width="95" src="./200-days-at-leetcode_2026.gif">
  <img alt="365 days at leetcode" width="95" src="./365-days-at-leetcode_2025.gif">
  <img alt="500+ days at leetcode" width="95" src="./500-days-at-leetcode.gif">
  <img alt="Guardian @LeetCode" width="95" src="./Guardian.gif">
- 
+ <img alt="Salesforce Certified Agentforce Specialist" width="95" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
  <img alt="100 days at leetcode" width="95" src="./100-days-at-leetcode_2025.gif">
  <img alt="200 days at leetcode" width="95" src="./200-days-at-leetcode_2025.gif">
  <img alt="365 days at leetcode" width="95" src="./365-days-at-leetcode_2025.gif">
@@ -43,7 +42,6 @@
  <img alt="4 ⭐ Knight @LeetCode" width="95" src="./Knight.gif">
  
  <img alt="AWS Emerging Talent Community Member" width="95" src="./AWS-Emerging-Talent-Community.png">
- <img alt="Salesforce Certified Agentforce Specialist" width="95" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
  
  
  </p>
