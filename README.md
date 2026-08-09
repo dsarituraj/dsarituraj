@@ -21,13 +21,14 @@
  <img alt="500+ days at leetcode" width="100" src="./500-days-at-leetcode.gif">
  <img alt="Guardian @LeetCode" width="100" src="./Guardian.gif">
  <br><br> 
- <img alt="Microsoft Certified Azure Fundamentals" width="100" src="./microsoft-certified-azure-fundamentals.png">
+ 
  <img alt="Microsoft Certified: Azure Developer Associate" width="100" src="./azure-developer-associate.png">
- <img alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="100" src="./Fabric-Data-Engineer.png">
- <img alt="Microsoft Certified: SQL-AI-Developer" width="120" src="./SQL-AI-Developer.png">
+   <img alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="100" src="./Fabric Analytics Engineer.png">
+ <img alt="Microsoft Certified: Fabric Data Engineer Associate" width="100" src="./Fabric-Data-Engineer.png">
+ <img alt="Microsoft Certified: SQL-AI-Developer" width="100" src="./SQL.png">
  <img alt="Microsoft Certified: Azure Data Scientist Associate" width="100" src="./azure-data-scientist.png">
  <br><br>
- <img alt="SAP Certified Associate - Integration Developer" width="100" src="./sap-certified-associate-integration-developer.png">
+ <img alt="Microsoft Certified Azure Fundamentals" width="100" src="./microsoft-certified-azure-fundamentals.png">
  <img alt="Github Foundations Certified" width="100" src="./Foundations.png">
  <img alt="Github Actions Certified" width="100" src="./action.png">
  <img alt="Github Administration Certified" width="100" src="./github-administration.png">
@@ -35,6 +36,7 @@
  <br><br>
  <img alt="AWS Emerging Talent Community Member" width="100" src="./AWS-Emerging-Talent-Community.png">
  <img alt="Salesforce Certified Agentforce Specialist" width="100" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
+ <img alt="SAP Certified Associate - Integration Developer" width="100" src="./sap-certified-associate-integration-developer.png">
  <img alt="300+ days at leetcode 2025" width="100" src="./300+days-In-2025-at-leetcode.gif">
  <img alt="4 ⭐ Knight @LeetCode" width="100" src="./Knight.gif">
  <br><br>
