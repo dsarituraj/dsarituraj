@@ -9,11 +9,11 @@
   </a>
 </p>
  <p>
- <img alt="Microsoft Certified: Azure AI Engineer Associate" width="100" src="./AI-Engineer.png"> 
  <img alt="Microsoft Certified: Identity and Access Administrator Associate" width="100" src="./identity-and-access-administrator.png">
  <img alt="Microsoft Certified: Cloud-And-AI-Security-Engineer Associate" width="105" src="./Cloud-And-AI-Security-Engineer.jpeg">
  <img alt="Microsoft Certified: Cybersecurity-Architect-Expert" width="100" src="./Cybersecurity-Architect-Expert.png">
  <img alt="Microsoft Certified: Agentic-AI-Business-Solutions-Architect" width="100" src="./Agentic-AI-Business-Solutions-Architect .png">
+ <img alt="Microsoft Certified: DevOps Engineer Expert" width="100" src="./DevOps-Engineer-Expert.png">
  <br><br>
  <img alt="100 days at leetcode" width="100" src="./100-days-at-leetcode_2026.gif">
  <img alt="200 days at leetcode" width="100" src="./200-days-at-leetcode_2026.gif">
@@ -23,7 +23,8 @@
  <br><br> 
  
  <img alt="Microsoft Certified: Azure Developer Associate" width="100" src="./azure-developer-associate.png">
-   <img alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="100" src="./Fabric Analytics Engineer.png">
+ <img alt="Microsoft Certified: Azure AI Engineer Associate" width="100" src="./AI-Engineer.png"> 
+ <!-- <img alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="100" src="./Fabric Analytics Engineer.png"> -->
  <img alt="Microsoft Certified: Fabric Data Engineer Associate" width="100" src="./Fabric-Data-Engineer.png">
  <img alt="Microsoft Certified: SQL-AI-Developer" width="100" src="./SQL.png">
  <img alt="Microsoft Certified: Azure Data Scientist Associate" width="100" src="./azure-data-scientist.png">
@@ -57,6 +58,13 @@
 
 <h4 align="left">I hold globally recognized credentials across AI, Cloud, Cybersecurity, Data Engineering and Enterprise Technology.</h4>
 
+<b> Software Development & Cloud</b>
+
+- AZ-400: **Microsoft Certified: DevOps Engineer Expert**
+- AZ-204: **Microsoft Certified: Azure Developer Associate**
+- AZ-900: **Microsoft Certified: Azure Fundamentals**
+- C_CPI_2506: **SAP Certified Associate - Integration Developer**
+
 <b> AI & Machine Learning</b>
 
 - AB-100: **Microsoft Certified: Agentic AI Business Solutions Architect**
@@ -77,11 +85,7 @@
 - DP-700: **Microsoft Certified: Fabric Data Engineer Associate**
 - DP-600: **Microsoft Certified: Fabric Analytics Engineer Associate**
 
-<b> Software Development & Cloud</b>
 
-- AZ-204: **Microsoft Certified: Azure Developer Associate**
-- AZ-900: **Microsoft Certified: Azure Fundamentals**
-- C_CPI_2506: **SAP Certified Associate - Integration Developer**
 
 <h3 align="left">GitHub Certified</h3>
 
