@@ -68,6 +68,7 @@
 <b> AI & Machine Learning</b>
 
 - AB-100: **Microsoft Certified: Agentic AI Business Solutions Architect**
+- AI-103: **Microsoft Certified: Azure AI Apps and Agents Developer Associate**
 - AI-102: **Microsoft Certified: Azure AI Engineer Associate**
 - DP-100: **Microsoft Certified: Azure Data Scientist Associate**
 - AI-201: **Salesforce Certified Agentforce Specialist**
