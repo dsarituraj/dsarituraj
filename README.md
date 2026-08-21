@@ -60,40 +60,39 @@
 
 <b> Software Development & Cloud</b>
 
-- AZ-400: **Microsoft Certified: DevOps Engineer Expert**
-- AZ-204: **Microsoft Certified: Azure Developer Associate**
-- AZ-900: **Microsoft Certified: Azure Fundamentals**
-- C_CPI_2506: **SAP Certified Associate - Integration Developer**
+- **Microsoft Certified: DevOps Engineer Expert | AZ-400**
+- **Microsoft Certified: Azure Developer Associate | AZ-204**
+- **Microsoft Certified: Azure Fundamentals | AZ-900**
+- **SAP Certified Associate - Integration Developer | C_CPI**
 
 <b> AI & Machine Learning</b>
 
-- AB-100: **Microsoft Certified: Agentic AI Business Solutions Architect**
-- AI-103: **Microsoft Certified: Azure AI Apps and Agents Developer Associate**
-- AI-102: **Microsoft Certified: Azure AI Engineer Associate**
-- DP-100: **Microsoft Certified: Azure Data Scientist Associate**
-- AI-201: **Salesforce Certified Agentforce Specialist**
+- **Microsoft Certified: Agentic AI Business Solutions Architect | AB-100**
+- **Microsoft Certified: Azure AI Apps and Agents Developer Associate | AI-103**
+- **Microsoft Certified: Azure AI Engineer Associate | AI-102**
+- **Salesforce Certified Agentforce Specialist | AI-201**
 
 <b> Cybersecurity</b>
 
-- SC-100: **Microsoft Certified: Cybersecurity Architect Expert**
-- SC-500: **Microsoft Certified: Cloud and AI Security Engineer Associate**
-- SC-300: **Microsoft Certified: Identity and Access Administrator Associate**
+- **Microsoft Certified: Cybersecurity Architect Expert | SC-100**
+- **Microsoft Certified: Cloud and AI Security Engineer Associate | SC-500**
+- **Microsoft Certified: Identity and Access Administrator Associate | SC-300**
 
 
 <b> Data Engineering & Analytics</b>
-
-- DP-800: **Microsoft Certified: SQL AI Developer Associate**
-- DP-700: **Microsoft Certified: Fabric Data Engineer Associate**
-- DP-600: **Microsoft Certified: Fabric Analytics Engineer Associate**
+- **Microsoft Certified: Azure Data Scientist Associate | DP-100**
+- **Microsoft Certified: SQL AI Developer Associate | DP-800**
+- **Microsoft Certified: Fabric Data Engineer Associate | DP-700**
+- **Microsoft Certified: Fabric Analytics Engineer Associate | DP-600**
 
 
 
 <h3 align="left">GitHub Certified</h3>
 
-- GH-500: **GitHub Advanced Security**
-- GH-200: **GitHub Certified Actions**
-- GH-100: **GitHub Certified Administration**  
-- GH-900: **GitHub Certified Foundations**  
+- **GitHub Advanced Security | GH-500**
+- **GitHub Certified Actions | GH-200**
+- **GitHub Certified Administration | GH-100**  
+- **GitHub Certified Foundations | GH-900**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
