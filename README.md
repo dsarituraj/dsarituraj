@@ -26,7 +26,7 @@
  <img alt="Microsoft Certified: Azure Data Scientist Associate" width="100" src="./azure-data-scientist.png">
  <img alt="Microsoft Certified: Azure AI Engineer Associate" width="100" src="./AI-Engineer.png"> 
  <img alt="Microsoft Certified: Azure AI Apps and Agents Developer Associate" width="100" src="./Azure-AI-Apps-and-Agents-Developer.png">
- <img alt="Microsoft Certified: Agentic-AI-Business-Solutions-Architect" width="100" src=".//Agentic-AI-Business-Solutions-Architect.png">
+ <img alt="Microsoft Certified: Agentic-AI-Business-Solutions-Architect" width="100" src=".//Agentic-AI-Business-Solutions-Architect-Expert.png">
  <br><br>
  <img alt="Microsoft Certified Azure Fundamentals" width="100" src="./microsoft-certified-azure-fundamentals.png">
  <img alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="100" src="./Fabric Analytics Engineer.png">
