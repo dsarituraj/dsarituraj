@@ -9,10 +9,10 @@
   </a>
 </p>
  <p>
+ <img alt="Microsoft Certified: Azure Developer Associate" width="100" src="./azure-developer-associate.png">
  <img alt="Microsoft Certified: Identity and Access Administrator Associate" width="100" src="./identity-and-access-administrator.png">
  <img alt="Microsoft Certified: Cloud-And-AI-Security-Engineer Associate" width="105" src="./Cloud-And-AI-Security-Engineer.jpeg">
  <img alt="Microsoft Certified: Cybersecurity-Architect-Expert" width="100" src="./Cybersecurity-Architect-Expert.png">
- <img alt="Microsoft Certified: Agentic-AI-Business-Solutions-Architect" width="100" src="./Agentic-AI-Business-Solutions-Architect .png">
  <img alt="Microsoft Certified: DevOps Engineer Expert" width="100" src="./DevOps-Engineer-Expert.png">
  <br><br>
  <img alt="100 days at leetcode" width="100" src="./100-days-at-leetcode_2026.gif">
@@ -22,28 +22,26 @@
  <img alt="Guardian @LeetCode" width="100" src="./Guardian.gif">
  <br><br> 
  
- <img alt="Microsoft Certified: Azure Developer Associate" width="100" src="./azure-developer-associate.png">
- <img alt="Microsoft Certified: Azure AI Engineer Associate" width="100" src="./AI-Engineer.png"> 
- <!-- <img alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="100" src="./Fabric Analytics Engineer.png"> -->
- <img alt="Microsoft Certified: Fabric Data Engineer Associate" width="100" src="./Fabric-Data-Engineer.png">
  <img alt="Microsoft Certified: SQL-AI-Developer" width="100" src="./SQL.png">
  <img alt="Microsoft Certified: Azure Data Scientist Associate" width="100" src="./azure-data-scientist.png">
+ <img alt="Microsoft Certified: Azure AI Engineer Associate" width="100" src="./AI-Engineer.png"> 
+ <img alt="Microsoft Certified: Azure AI Apps and Agents Developer Associate" width="100" src="./Azure-AI-Apps-and-Agents-Developer.png">
+ <img alt="Microsoft Certified: Agentic-AI-Business-Solutions-Architect" width="100" src=".//Agentic-AI-Business-Solutions-Architect.png">
  <br><br>
  <img alt="Microsoft Certified Azure Fundamentals" width="100" src="./microsoft-certified-azure-fundamentals.png">
+ <img alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="100" src="./Fabric Analytics Engineer.png">
+ <img alt="Microsoft Certified: Fabric Data Engineer Associate" width="100" src="./Fabric-Data-Engineer.png">
  <img alt="Github Foundations Certified" width="100" src="./Foundations.png">
  <img alt="Github Actions Certified" width="100" src="./action.png">
+ <br><br>
+ <!-- <img alt="AWS Emerging Talent Community Member" width="100" src="./AWS-Emerging-Talent-Community.png"> -->
+ <img alt="Salesforce Certified Agentforce Specialist" width="100" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
+ <img alt="SAP Certified Associate - Integration Developer" width="100" src="./sap-certified-associate-integration-developer.png">
+ <!-- <img alt="300+ days at leetcode 2025" width="100" src="./300+days-In-2025-at-leetcode.gif"> -->
+ <img alt="4 ⭐ Knight @LeetCode" width="100" src="./Knight.gif">
  <img alt="Github Administration Certified" width="100" src="./github-administration.png">
  <img alt="GitHub Advanced Security Certified" width="100" src="./GitHub Advanced Security Certified.png">
  <br><br>
- <img alt="AWS Emerging Talent Community Member" width="100" src="./AWS-Emerging-Talent-Community.png">
- <img alt="Salesforce Certified Agentforce Specialist" width="100" src="./Salesforce-Certified-Agentforce-Specialist.jpg">
- <img alt="SAP Certified Associate - Integration Developer" width="100" src="./sap-certified-associate-integration-developer.png">
- <img alt="300+ days at leetcode 2025" width="100" src="./300+days-In-2025-at-leetcode.gif">
- <img alt="4 ⭐ Knight @LeetCode" width="100" src="./Knight.gif">
- <br><br>
- 
- 
- 
  </p>
  
 - 🔭 I’m currently working on an  **end-to-end RAG pipeline that transforms video lectures into an intelligent AI assistant.**
